@@ -9,3 +9,6 @@ Javascript
 https://cdnjs.cloudflare.com/ajax/libs/react/16.13.1/umd/react.production.min.js
 https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.13.1/umd/react-dom.production.min.js
 https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+
+code
+https://codepen.io/samueladeniyi/pen/dyGwEMd?editors=0010
